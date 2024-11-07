@@ -1,4 +1,4 @@
-# OSCR-interface
+
 Windows software for OSCR
 This project made in collaboration with ORION Soft (https://github.com/orionsoftgames) is an attempt to make a Windows interface for the OSCR (https://github.com/sanni/cartreader).
 For now it only works for the SNES module.
